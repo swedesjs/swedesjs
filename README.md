@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&height=30&width=400&lines=Разработчик+из+России;Делаю+консольные+приложения+и+ботов;Люблю+автоматизацию+и+удобные+фишки" alt="Печатающийся текст" />
 </div>
 <p align="center">
-  <a href="https://github.com/swedests">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=swedests&theme=tokyonight&hide_border=true" alt="Статистика GitHub" />
+  <a href="https://github.com/swedesjs">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=swedesjs&theme=tokyonight&hide_border=true" alt="Статистика GitHub" />
   </a>
 </p>
 
